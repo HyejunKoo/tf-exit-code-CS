@@ -4,8 +4,8 @@
 
 ## 제출 기준
 
-- 필수 답변: COMMON-121 ~ COMMON-140
-- 선택 답변: COMMON-141 ~ COMMON-160
+* 필수 답변: COMMON-121 ~ COMMON-140
+* 선택 답변: COMMON-141 ~ COMMON-160
 
 ---
 
@@ -330,3 +330,4 @@
 답변:
 
 참고 자료:
+
